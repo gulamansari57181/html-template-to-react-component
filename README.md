@@ -4,5 +4,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Home Page:
 ![screenShot](https://github.com/gulamansari57181/react-template-to-website/blob/master/screenshots/Screenshot%20(63).png)
+![screenShot](https://github.com/gulamansari57181/react-template-to-website/blob/master/screenshots/Screenshot%20(64).png)
 
 
