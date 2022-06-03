@@ -21,7 +21,7 @@ function Navbar() {
               </a>
             </li>
             <li className="nav-item dropdown">
-              <a className="nav-link text-white">Products</a>
+              <a className="nav-link text-white"> Products </a>
             </li>
             <li className="nav-item">
               <a className="nav-link disabled" href="#">

@@ -1,17 +1,17 @@
 import React from "react";
 import Navbar from "./Navbar";
-import HeroSection from "./HeroSection";
+import HeroSection from "./HeroSection.js";
 import AppSection from "./AppSection";
-import Card from "./Card";
+import CardSection from "./CardSection";
 import Footer from "./Footer";
 
 function App() {
   return (
     <div>
-      <Navbar></Navbar>
+      <Navbar> </Navbar>
       <HeroSection></HeroSection>
       <AppSection></AppSection>
-      <Card></Card>
+      <CardSection></CardSection>
       <Footer></Footer>
     </div>
   );
